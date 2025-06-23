@@ -1,4 +1,4 @@
-# Sales Prediction and Repors for Rossmann drugstores
+# Sales Prediction and Reports for Rossmann drugstores
 
 ## Motivation
 Rossmann operates over 4,300 drugstores in 9 European countries (see https://de.wikipedia.org/wiki/Rossmann_(retail chain)). Currently, 
